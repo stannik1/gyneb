@@ -9,7 +9,7 @@
 
         <body>
                 <header>
-                        <div id="logo"><h1>HoBi</h1></div>
+                        <div id="logo"><h1>gyneb</h1></div>
                         <nav>
                                 <ul>
                                         <li><a href="index.php?stranka=ordinace">Ordinace</a></li>
